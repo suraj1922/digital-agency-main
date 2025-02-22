@@ -29,8 +29,7 @@ const Navbar = () => {
   };
   return (
     <div
-      className="relative z-10 w-full dark:bg-black dark:text-white duration-300
-    "
+      className="relative z-10 w-full dark:bg-black dark:text-white duration-300"
     >
       <div className="container py-3 md:py-2">
         <div className="flex justify-between items-center">

@@ -21,6 +21,7 @@ const BlogCard = ({ image, title, description }) => {
         </div>
       </div>
     </>
+
   );
 };
 
