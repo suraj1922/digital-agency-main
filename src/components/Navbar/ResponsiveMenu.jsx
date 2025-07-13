@@ -39,5 +39,4 @@ const ResponsiveMenu = ({ showMenu }) => {
     </div>
   );
 };
-
 export default ResponsiveMenu;
